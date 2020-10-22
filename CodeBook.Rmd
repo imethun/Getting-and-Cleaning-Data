@@ -1,0 +1,20 @@
+---
+title: 'Code Book:'
+output: html_document
+---
+
+The codes of R script are devided into four steps.
+
+### Step -1 
+ * The data set have been downloaded and in a folder of working directory named data. 
+ * Zip file have been unziped using unz funcion.
+ * All data set are read in r and assigned to perticular name. 
+ 
+### step-2 
+ * rename column names of datasets according to feature_info.txt file provided with datasets 
+
+### step-3 
+  Five steps for tidy data preparation is performed and steps are numbered as 1,2,3,4,5.
+
+### step-4 
+final tidy_data is stored as FinalData.txt in the data forlder of working directory. 

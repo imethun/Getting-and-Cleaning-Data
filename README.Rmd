@@ -1,0 +1,13 @@
+
+---
+title: "Peer graded assignment: Getting and cleaning data"
+output: html_document
+---
+
+This reposotary is a submission of peer graded assignment by Methun.
+
+## Files 
+* CodeBook.Rmd: descrive Variables, dataset and the transformation that is done to make tidy data 
+* run_analysis.R : R code to perform the 5 steps, as intructed, to prepare tidy   data for future analysis. 
+
+* FinalData.txt : final tidy data which is obtained by performing instructed steps.
